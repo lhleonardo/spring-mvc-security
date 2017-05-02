@@ -1,0 +1,12 @@
+body {
+	padding-bottom: 2rem;
+}
+
+h1.inline {
+	display: inline;
+}
+
+div.titulo{
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
